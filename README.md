@@ -28,7 +28,7 @@ Key Features
 * Visual data analysis with charts and graphs.
 
 
-📌 How to Use
+How to Use
 
 * Open the Excel file in Microsoft Excel.
 * Use the main menu to navigate through sheets.
